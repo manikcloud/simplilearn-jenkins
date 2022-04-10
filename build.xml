@@ -7,4 +7,4 @@
 		<echo> Integration between Jenkins, git and ANT is done.</echo>
 
 	</target>
-</project
+</project>
