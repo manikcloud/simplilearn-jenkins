@@ -1,2 +1,0 @@
-# simplilearn-jenkins
-simplilearn-jenkins
